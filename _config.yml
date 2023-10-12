@@ -1,4 +1,4 @@
-remote_theme: scribouilli/mimoza
+remote_theme: scribouilli/kabusin
 collections:
   projects:
     output: true
