@@ -1,7 +1,6 @@
 ---
-title: Accueil
+title: "Accueil"
 ---
-
 ## Pour démarrer : Qu’est-ce qui se passe dans mon téléphone portable ?
 
 Je vous propose d’installer l’application Exodus Privacy, comme n’importe quelle application (il faut aller dans le Google Play Store pour cela, et chercher “Exodus Privacy”). Une fois installée et lancée, Exodus fait un petit tour des applications présentes sur votre téléphone, et vous liste le nombre d’autorisations demandées, ou de pisteurs contenus.
@@ -9,6 +8,7 @@ Je vous propose d’installer l’application Exodus Privacy, comme n’importe 
 ## Bonus 2 : Installer un bloqueur de pub
 
 Ce qui est top, c’est que sur Firefox on peut installer un bloqueur de pub. Il bloquera les publicités, et permettra de charger les sites plus rapidements ! Recherchez “ublock origin” dans votre moteur de recherche (Qwant ou Google), et installez l’extension ! Ca y est, votre téléphone a un bloqueur de pub d’installé :)
+
 
 <article class="framalibre-notice">
   <div>
@@ -22,4 +22,4 @@ Ce qui est top, c’est que sur Firefox on peut installer un bloqueur de pub. Il
       <a href="">Vers la notice Framalibre <i class="fas fa-chevron-right ml-1"></i></a>
     </div>
   </div>
-</article>    
+</article> 
