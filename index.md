@@ -9,7 +9,6 @@ Je vous propose d’installer l’application Exodus Privacy, comme n’importe 
 
 Ce qui est top, c’est que sur Firefox on peut installer un bloqueur de pub. Il bloquera les publicités, et permettra de charger les sites plus rapidements ! Recherchez “ublock origin” dans votre moteur de recherche (Qwant ou Google), et installez l’extension ! Ca y est, votre téléphone a un bloqueur de pub d’installé :)
 
-
 <article class="framalibre-notice">
   <div>
     <img src="https://beta.framalibre.org/images/logo/Firefox.png" alt=""/>
